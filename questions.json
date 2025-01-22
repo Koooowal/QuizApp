@@ -1,0 +1,318 @@
+[
+  {
+    "question": "Sposób określania zdolności maszyny do posługiwania się językiem naturalnym to test:",
+    "answers": [
+      { "text": "Shannona", "correct": false },
+      { "text": "Turinga", "correct": true },
+      { "text": "Boole’a", "correct": false },
+      { "text": "Wienera", "correct": false }
+    ]
+  },
+  {
+    "question": "Uczenie, w którym program wchodzi w interakcję z dynamicznym środowiskiem, to uczenie:",
+    "answers": [
+      { "text": "Nadzorowane", "correct": false },
+      { "text": "Federacyjne", "correct": false },
+      { "text": "Ze wzmocnieniem", "correct": true },
+      { "text": "Nienadzorowane", "correct": false }
+    ]
+  },
+  {
+    "question": "Liczba wag w sieci konwolucyjnej jest:",
+    "answers": [
+      { "text": "Znacznie mniejsza niż w sieci MLP", "correct": true },
+      { "text": "Większa niż w sieci MLP", "correct": false },
+      { "text": "Porównywalna z liczbą wag w sieci MLP", "correct": false },
+      { "text": "Nieco mniejsza niż w sieci MLP", "correct": false }
+    ]
+  },
+  {
+    "question": "Regresja liniowa, y=ax+b:",
+    "answers": [
+      { "text": "Jest wykorzystywana tylko do klasyfikacji", "correct": false },
+      { "text": "Nie może być stosowana dla danych wektorowych", "correct": false },
+      { "text": "Jest stosowana do pokazania linii trendu", "correct": true },
+      { "text": "Nie jest rozwiązywana metodą najmniejszych kwadratów", "correct": false }
+    ]
+  },
+  {
+    "question": "Funkcja, która definiuje sposób pomiaru wydajności sieci, to:",
+    "answers": [
+      { "text": "Funkcja celu", "correct": true },
+      { "text": "Funkcja regresji", "correct": false },
+      { "text": "Funkcja aktywacji", "correct": false },
+      { "text": "Funkcja sigmoidalna", "correct": false }
+    ]
+  },
+  {
+    "question": "Sieć Kohonena to inaczej nazwa:",
+    "answers": [
+      { "text": "Sieci Hopfielda", "correct": false },
+      { "text": "Sieci samoorganizującej się", "correct": true },
+      { "text": "Sieci rozmytych", "correct": false },
+      { "text": "Autoenkodera", "correct": false }
+    ]
+  },
+  {
+    "question": "Wykładnicze zmniejszanie się gradientu w uczeniu sieci to problem:",
+    "answers": [
+      { "text": "Chaosu gradientu", "correct": false },
+      { "text": "Wybuchu gradientu", "correct": false },
+      { "text": "Załamania gradientu", "correct": false },
+      { "text": "Znikającego gradientu", "correct": true }
+    ]
+  },
+  {
+    "question": "Model stosowany do autokompletowania kodu to:",
+    "answers": [
+      { "text": "LDA", "correct": false },
+      { "text": "GPT 3", "correct": true },
+      { "text": "KNN", "correct": false },
+      { "text": "CNN", "correct": false }
+    ]
+  },
+  {
+    "question": "Rozważmy regułę Hebba:",
+    "answers": [
+      { "text": "Stosuje się ją w uczeniu z nauczycielem", "correct": false },
+      { "text": "Wszystkie odpowiedzi są poprawne", "correct": true },
+      { "text": "Wadą jest, że wagi mogą dowolnie rosnąć", "correct": false },
+      { "text": "Stosuje się ją w uczeniu bez nauczyciela", "correct": false }
+    ]
+  },
+  {
+    "question": "Węzeł wewnętrzny drzewa decyzyjnego reprezentuje:",
+    "answers": [
+      { "text": "Test na atrybucie", "correct": true },
+      { "text": "Etykietę klasy", "correct": false },
+      { "text": "Ma postać skomplikowanego schematu blokowego", "correct": false },
+      { "text": "Wynik testu", "correct": false }
+    ]
+  },
+  {
+    "question": "Przykładem sieci samoorganizującej się jest sieć:",
+    "answers": [
+      { "text": "Kohonena", "correct": true },
+      { "text": "Hopfielda", "correct": false },
+      { "text": "MLP", "correct": false },
+      { "text": "McCullocha-Pittsa", "correct": false }
+    ]
+  },
+  {
+    "question": "Okres w latach 1974-1980 nazywa się:",
+    "answers": [
+      { "text": "Wiosną sztucznej inteligencji", "correct": false },
+      { "text": "Latem sztucznej inteligencji", "correct": false },
+      { "text": "Jesienią sztucznej inteligencji", "correct": false },
+      { "text": "Zimą sztucznej inteligencji", "correct": true }
+    ]
+  },
+  {
+    "question": "Dropout to sposób:",
+    "answers": [
+      { "text": "Testowania sieci", "correct": false },
+      { "text": "Ustawiania wartości wag sieci na 1", "correct": false },
+      { "text": "Walidacji sieci", "correct": false },
+      { "text": "Unikania przetrenowania sieci", "correct": true }
+    ]
+  },
+  {
+    "question": "Zakres wartości tangensa hiperbolicznego to:",
+    "answers": [
+      { "text": "Przedział [-1, 1]", "correct": true },
+      { "text": "Przedział [0, 1]", "correct": false },
+      { "text": "Przedział (-1, 1)", "correct": false },
+      { "text": "Przedział (0, 1)", "correct": false }
+    ]
+  },
+  {
+    "question": "PCA:",
+    "answers": [
+      { "text": "Służy powiększaniu wymiarowości danych", "correct": false },
+      { "text": "Można obliczyć przy pomocy macierzy kowariancji", "correct": true },
+      { "text": "To inaczej metoda Fishera", "correct": false },
+      { "text": "Jest synonimem LDA", "correct": false }
+    ]
+  },
+  {
+    "question": "Przeuczenie sieci neuronowej oznacza, że:",
+    "answers": [
+      { "text": "Wagi sieci się zerują", "correct": false },
+      { "text": "Straci ona możliwość generalizowania wiedzy", "correct": true },
+      { "text": "Sieć zwraca zawsze ten sam wynik", "correct": false },
+      { "text": "Sieć ma losowe wagi, niezwiązane z procesem uczenia", "correct": false }
+    ]
+  },
+  {
+    "question": "Autoenkoder, który poznaje przydatne cechy poprzez dodawanie szumu do danych wejściowych to autoenkoder:",
+    "answers": [
+      { "text": "Wariacyjny", "correct": false },
+      { "text": "Kurczliwy", "correct": false },
+      { "text": "Rzadki", "correct": false },
+      { "text": "Odszumiający", "correct": true }
+    ]
+  },
+  {
+    "question": "Matplotlib to:",
+    "answers": [
+      { "text": "Biblioteka do wizualizacji danych", "correct": true },
+      { "text": "Biblioteka sieci rekurencyjnych", "correct": false },
+      { "text": "Biblioteka sieci splotowych", "correct": false },
+      { "text": "Biblioteka sieci Kohonena", "correct": false }
+    ]
+  },
+  {
+    "question": "W równaniu regresji y=ax+b:",
+    "answers": [
+      { "text": "Zmienna y jest zmienną objaśnianą", "correct": true },
+      { "text": "Wartość a jest zmienną objaśnianą", "correct": false },
+      { "text": "Wartość b jest zmienną objaśnianą", "correct": false },
+      { "text": "Zmienna x jest zmienną objaśnianą", "correct": false }
+    ]
+  },
+  {
+    "question": "Rozważmy metody PCA i LDA:",
+    "answers": [
+      { "text": "Tylko pierwsza służy do redukcji wymiaru", "correct": false },
+      { "text": "Żadna nie służy do redukcji wymiaru", "correct": false },
+      { "text": "Tylko druga służy", "correct": false },
+      { "text": "Obie służą do redukcji wymiaru", "correct": true }
+    ]
+  },
+  {
+    "question": "Za pierwszą sieć neuronową uważa się powszechnie sieć stworzoną przez:",
+    "answers": [
+      { "text": "Minsky’ego", "correct": false },
+      { "text": "Ivakhnenko i Lapę", "correct": false },
+      { "text": "Pittsa i McCullocha", "correct": true },
+      { "text": "Hintona i Rumelharta", "correct": false }
+    ]
+  },
+  {
+    "question": "SVM:",
+    "answers": [
+      { "text": "Nie jest implementowany w sklearn", "correct": false },
+      { "text": "Jest skuteczny, gdy liczba wymiarów jest większa niż liczba próbek", "correct": true },
+      { "text": "Jest nieskuteczny w przestrzeniach wielowymiarowych", "correct": false },
+      { "text": "Dostarcza bezpośrednio szacunków prawdopodobieństwa", "correct": false }
+    ]
+  },
+  {
+    "question": "Sieć Hopfielda to:",
+    "answers": [
+      { "text": "Sieć rekurencyjna", "correct": true },
+      { "text": "Autoendoker", "correct": false },
+      { "text": "Sieć konwolucyjna", "correct": false },
+      { "text": "Sieć samoorganizująca się", "correct": false }
+    ]
+  },
+  {
+    "question": "Funkcja Heaviside’a to funkcja:",
+    "answers": [
+      { "text": "Przyjmująca trzy wartości: -1, 0, 1", "correct": false },
+      { "text": "Z pochodną w całej dziedzinie", "correct": false },
+      { "text": "Skokowa", "correct": true },
+      { "text": "Z zakresem wartości w całej prostej rzeczywistej", "correct": false }
+    ]
+  },
+  {
+    "question": "Miara niejednorodności nazywana jest indeksem:",
+    "answers": [
+      { "text": "Turinga", "correct": false },
+      { "text": "Giniego", "correct": true },
+      { "text": "Chomsky’ego", "correct": false },
+      { "text": "Shannona", "correct": false }
+    ]
+  },
+  {
+    "question": "NumPy:",
+    "answers": [
+      { "text": "To synonim SciPy", "correct": false },
+      { "text": "Jest biblioteką stosowaną do przetwarzania dużych macierzy", "correct": true },
+      { "text": "Jest biblioteką stosowaną głównie do tworzenia wykresów", "correct": false },
+      { "text": "Jest biblioteką, której nie można stosować do operacji na tensorach", "correct": false }
+    ]
+  },
+  {
+    "question": "Z tzw. Miękką marżą mamy do czynienia, gdy:",
+    "answers": [
+      { "text": "Klasyfikacja SVM jest liniowa", "correct": false },
+      { "text": "Pozwalamy SVM popełnić kilka błędów", "correct": true },
+      { "text": "Nie ma parametrów “luzu”", "correct": false },
+      { "text": "Nie wprowadzamy hiperparametru decydującego o kompromisie", "correct": false }
+    ]
+  },
+  {
+    "question": "Bias w sieci neuronowej:",
+    "answers": [
+      { "text": "To tzw. threshold", "correct": false },
+      { "text": "To inaczej wyraz wolny", "correct": true },
+      { "text": "To metoda zerowania wag sieci", "correct": false },
+      { "text": "To waga o wartości 0", "correct": false }
+    ]
+  },
+  {
+    "question": "W przypadku metody lasu izolacji:",
+    "answers": [
+      { "text": "Rekord jest anomalią, jeżeli miara anomalii jest mniejsza od 0", "correct": false },
+      { "text": "Im miara bliższa wartości 0.5, tym większe prawdopodobieństwo, że rekord jest anomalią", "correct": false },
+      { "text": "Im miara bliższa wartości 0, tym większe prawdopodobieństwo, że rekord jest anomalią", "correct": false },
+      { "text": "Im miara bliższa wartości 1, tym większe prawdopodobieństwo, że rekord jest anomalią", "correct": true }
+    ]
+  },
+  {
+    "question": "Eigenfaces korzysta z:",
+    "answers": [
+      { "text": "K-NN", "correct": false },
+      { "text": "PCA", "correct": true },
+      { "text": "K-Means", "correct": false },
+      { "text": "CNN", "correct": false }
+    ]
+  },
+  {
+    "question": "Skalar to tensor:",
+    "answers": [
+      { "text": "Rzędu 0", "correct": true },
+      { "text": "Rzędu 1", "correct": false },
+      { "text": "Rzędu 2", "correct": false },
+      { "text": "Rzędu 3", "correct": false }
+    ]
+  },
+  {
+    "question": "Identycznościowa funkcja aktywacji ma zakres wartości postaci:",
+    "answers": [
+      { "text": "Odcinka [0,1]", "correct": false },
+      { "text": "Półprostej R+", "correct": false },
+      { "text": "Prostej R", "correct": true },
+      { "text": "Odcinka [-1,1]", "correct": false }
+    ]
+  },
+  {
+    "question": "Python posiada interpretery dla:",
+    "answers": [
+      { "text": "Jednej platformy", "correct": false },
+      { "text": "Tylko dla Windows", "correct": false },
+      { "text": "Tylko dla Linuxa", "correct": false },
+      { "text": "Różnych platform", "correct": true }
+    ]
+  },
+  {
+    "question": "W Algorytmie KNN (K>1) zwycięzcę wybiera się na zasadzie:",
+    "answers": [
+      { "text": "Losu", "correct": false },
+      { "text": "Minimum instancji w najbliższych K sąsiadach", "correct": false },
+      { "text": "Głosowania", "correct": true },
+      { "text": "Średniej liczby instancji w najbliższych K sąsiadach", "correct": false }
+    ]
+  },
+  {
+    "question": "Podstawy sztucznej inteligencji jako dziedziny zdefiniowano na konferencji w:",
+    "answers": [
+      { "text": "Detroit", "correct": false },
+      { "text": "Dartmouth", "correct": true },
+      { "text": "Las Vegas", "correct": false },
+      { "text": "Waszyngtonie", "correct": false }
+    ]
+  }
+
+]
